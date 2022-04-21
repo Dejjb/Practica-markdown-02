@@ -10,3 +10,11 @@ Logo de la UCR desde la web
 imagen en la compu
 
 ![](GIRASOLDELAU.jpg)
+
+
+tamaño modificardo de la imagen
+<img src="GIRASOLDELAU.jpg" alt="Girl in a jacket" width="500" height="600">
+**texto en italica**
+_la misma cosa pero diferene_
+
+*que hace esto*
