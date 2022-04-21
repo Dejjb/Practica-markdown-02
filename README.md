@@ -4,4 +4,5 @@ Practica de Markdown grupo 2
 [Sitio web de la universidad de costa Rica](https://www.ucr.ac.cr/)
 
 Logo de la UCR
-![](GIRASOL DE LA U.jpg)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Firma_vertical_Universidad_de_Costa_Rica.svg/1200px-Firma_vertical_Universidad_de_Costa_Rica.svg.png)
