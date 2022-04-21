@@ -12,8 +12,11 @@ imagen en la compu
 ![](GIRASOLDELAU.jpg)
 
 
-tamaño modificardo de la imagen
+tamaño modificardo de la image
+
 <img src="GIRASOLDELAU.jpg" alt="Girl in a jacket" width="500" height="600">
+
+
 **texto en italica**
 _la misma cosa pero diferene_
 
