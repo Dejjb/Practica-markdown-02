@@ -9,4 +9,4 @@ Logo de la UCR desde la web
 
 imagen en la compu
 
-!{}(GIRASOL DE LA U.jpg)
+!{}(GIRASOLDELAU.jpg)
